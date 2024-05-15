@@ -8,7 +8,8 @@ Olá! Meu nome é Allyson e sou estudante da Universidade Federal do Espírito S
 
 - Desenvolvimento Web
 - Tecnologias Front-End (HTML, CSS, JavaScript)
-- Frameworks React.js
+- Frameworks Next.js e React
+- PHP, Laravél e Vue.js
 
 ## Contato
 
