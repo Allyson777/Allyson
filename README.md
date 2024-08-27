@@ -18,5 +18,5 @@ Developer: ReactJS | JavaScript | TypeScript | HTML | CSS | PHP | Laravel
 
 Você pode entrar em contato comigo através do meu e-mail: spvAllyson@gmail.com
 
-<a href="https://github.com/Allyson777"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaswalcker&hide=html&layout=compact&theme=onedark" alt="Card Star" align="center" width="400px" min-width="300px"></a>
+<a href="https://github.com/Allyson777"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allyson777&hide=html&layout=compact&theme=onedark" alt="Card Star" align="center" width="400px" min-width="300px"></a>
 
