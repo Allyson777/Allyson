@@ -3,6 +3,9 @@
 ## Sobre mim
 
 Olá! Meu nome é Allyson e sou estudante da Universidade Federal do Espírito Santo (UFES). Tensionado pelo desenvolvimento de front-end e estou constantemente buscando aprender e aprimorar minhas habilidades nessa área.
+## ADAPTI
+
+Developer: ReactJS | JavaScript | TypeScript | HTML | CSS | PHP | Larave
 
 ## Interesses
 
